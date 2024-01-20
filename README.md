@@ -1,1 +1,1 @@
-# .github
+# [Crate Monster](crate.monster)
